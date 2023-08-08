@@ -1,0 +1,3 @@
+addr = ''
+db = 'mysql'
+dsn = 'admin:admin@tcp(127.0.0.1:3306)/moss?charset=utf8mb4&parseTime=True'
